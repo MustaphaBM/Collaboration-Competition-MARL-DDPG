@@ -18,6 +18,9 @@ For this project, you will train two agents using DDPG algorithm
     
     > conda activate environment.yaml
 
+3. run the project :
+    > python run.py
+
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
